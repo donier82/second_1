@@ -1,0 +1,35 @@
+html{
+    background: url(https://i.pinimg.com/originals/54/c7/c9/54c7c9352317debb46b7ef80c59c78c5.jpg);
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+body{
+    width: 400px;
+    margin: 0;
+    padding: 60px 40px;
+    background: rgba(50,122,167,_3);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h3{
+    font-size: 44px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid paleturquoise;
+}
+p{
+    font-size: 24px;
+    margin: 5px 0;
+}
+.author{
+    background: steelblue;
+    padding: 5px 0;
+}
+.margin-bottom{
+    margin-bottom: 30px;
+}
+.copyright{
+    font-style: 12px;
+    color: lightcyan;
+}
